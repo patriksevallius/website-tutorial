@@ -24,6 +24,12 @@
       <version>${essentials.version}</version>
       <type>pom</type>
     </dependency>
+    <dependency>
+      <groupId>org.apache.cxf</groupId>
+      <artifactId>cxf-core</artifactId>
+      <version>3.4.10</version>
+      <type>pom</type>
+    </dependency>
   </dependencies>
   <build>
     <resources>
